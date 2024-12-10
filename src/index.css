@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    background: url('https://t3.ftcdn.net/jpg/05/86/53/40/240_F_586534093_tAsVxUC5TeckUgQFi0AyyS8gw5eAfE8x.jpg')no-repeat;
+    background-blend-mode:hard-light;
+    color: white;
+    background-position: center;
+    background-size:cover;
+    background-color: rgba(229, 214, 245, 0.728);
+  
+}
